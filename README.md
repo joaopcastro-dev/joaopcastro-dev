@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey! 👋
 
-<!--
-**joaopcastro-dev/joaopcastro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm João, a Software Engineering student based in Belo Horizonte, Brazil.
 
-Here are some ideas to get you started:
+I have a strong background in hardware and IT, and I'm currently growing in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about understanding how things work — from code logic to the physical components inside a machine.
+
+
+Fun Facts:
+
+🎮 FPS (cs2) and story-driven games (like RDR2) enjoyer.
+📺Big fan of Dexter and Better Call Saul — huge admirer of Vince Gilligan.
+🖥️I love building PCs and exploring hardware in general. 
