@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USER&label=Visitas&color=00c2c2&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=joaopcastro-dev&label=Visitas&color=00c2c2&style=flat-square" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ Gosto de entender como as coisas funcionam, da lógica do código aos componente
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,nodejs,git,github,vscode,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,windows&perline=10" />
 </p>
 
 ## 📊 Stats
@@ -41,7 +41,7 @@ Gosto de entender como as coisas funcionam, da lógica do código aos componente
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/joaopcastro-dev/joaopcastro-dev/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/joaopcastro-dev/output/github-snake-dark.svg" />
 </p>
 
 ## 📫 Contato
