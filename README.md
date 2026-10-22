@@ -1,12 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c2c2&height=200&section=header&text=Hey!%20%F0%9F%91%8B%20Eu%20sou%20o%20Jo%C3%A3o&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c2c2&height=200&section=header&text=Olá!%20%F0%9F%91%8B%20s%20Sou%20o%20Jo%C3%A3o&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2C2&center=true&vCenter=true&width=550&lines=Software+Engineering+student+%F0%9F%8E%93;Hardware+%2B+TI+%2B+Desenvolvimento+%F0%9F%96%A5%EF%B8%8F;Crescendo+em+software+todo+dia+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2C2&center=true&vCenter=true&width=550&lines=Software+Engineering+student+%F0%9F%8E%93;Hardware%2C+TI+e+Desenvolvimento+%F0%9F%96%A5%EF%B8%8F" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaopcastro-dev&label=Visitas&color=00c2c2&style=flat-square" />
-</p>
+
 
 ---
 
@@ -36,12 +34,6 @@ Gosto de entender como as coisas funcionam, da lógica do código aos componente
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joaopcastro-dev&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joaopcastro-dev/output/github-snake-dark.svg" />
 </p>
 
 ## 📫 Contato
