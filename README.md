@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c2c2&height=200&section=header&text=Olá!%20%F0%9F%91%8B%20s%20Sou%20o%20Jo%C3%A3o&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c2c2&height=200&section=header&text=Olá!%20%F0%9F%91%8B%20%20Sou%20o%20Jo%C3%A3o&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2C2&center=true&vCenter=true&width=550&lines=Software+Engineering+student+%F0%9F%8E%93;Hardware%2C+TI+e+Desenvolvimento+%F0%9F%96%A5%EF%B8%8F" />
