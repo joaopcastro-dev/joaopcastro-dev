@@ -1,14 +1,54 @@
-## Hey! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c2c2&height=200&section=header&text=Hey!%20%F0%9F%91%8B%20Eu%20sou%20o%20Jo%C3%A3o&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20PUC%20Minas&descAlignY=58&descSize=18" width="100%" />
 
-### I'm <strong> João </strong>, a Software Engineering student based in Belo Horizonte, Brazil.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2C2&center=true&vCenter=true&width=550&lines=Software+Engineering+student+%F0%9F%8E%93;Hardware+%2B+TI+%2B+Desenvolvimento+%F0%9F%96%A5%EF%B8%8F;Crescendo+em+software+todo+dia+%F0%9F%9A%80" />
+</p>
 
-I have a strong background in hardware and IT, and <strong> I'm currently growing in software development.</strong>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USER&label=Visitas&color=00c2c2&style=flat-square" />
+</p>
 
-I’m passionate about understanding how things work — from code logic to the physical components inside a machine.
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou estudante de **Engenharia de Software** em **Belo Horizonte, Brasil** 🇧🇷.
+Tenho uma base forte em **hardware e TI** e estou **crescendo em desenvolvimento de software**. 
+
+Gosto de entender como as coisas funcionam, da lógica do código aos componentes físicos dentro de uma máquina. 
+
+-  Engenharia de Software PUC MINAS 
+-  Estudando e aprimorando meus conhecimentos na área de desenvolvimento.
 
 
-Fun Facts:
+## 🛠️ Stack
 
-🎮 FPS (cs2) and story-driven games (like RDR2) enjoyer. <br>
-📺 Big fan of Dexter and Better Call Saul — huge admirer of Vince Gilligan.<br>
-🖥️ I love building PCs and exploring hardware in general. <br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,nodejs,git,github,vscode,linux&perline=10" />
+</p>
+
+## 📊 Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopcastro-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcastro-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=joaopcastro-dev&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaopcastro-dev/joaopcastro-dev/output/github-snake-dark.svg" />
+</p>
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaopaulo-moreira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joaopcastrocontato@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2c2,100:0f2027&height=100&section=footer" width="100%" />
